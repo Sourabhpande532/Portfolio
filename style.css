@@ -120,6 +120,7 @@ hr {
   padding: 2rem;
 }
 
+
 .hero .hero-img {
   max-width: 250px;
   display: block;
@@ -210,4 +211,14 @@ hr {
 
 p {
   line-height: 1.3rem;
+}
+
+@media screen and (max-width: 450px) {
+  .navigation .nav-brand {
+    font-weight: bold;
+    font-size: 19px;
+  }
+  .navigation .nav-pills {
+    font-size: 15px;
+  } 
 }
