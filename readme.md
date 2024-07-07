@@ -7,7 +7,7 @@ By Sourabh Pande
 
 ---
 
-Welcome to my portfolio website repository! This repository contains the source code for my personal portfolio website, where I showcase my work and skills in the field of web development and design That will help you to know more about me.
+Welcome to my portfolio website repository! This repository contains the source code for my personal portfolio website, where I showcase my work and skills in the field of web development and design That will help you to know more about me ins and out.
 
 ## Features ✨
 
